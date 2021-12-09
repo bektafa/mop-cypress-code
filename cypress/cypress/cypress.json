@@ -1,0 +1,13 @@
+{
+    "projectId": "myId",
+    "watchForFileChanges": false,
+    "fileServerFolder": "www",
+    "viewportWidth": 320,
+    "viewportHeight": 568,
+    "numTestsKeptInMemory": 5,
+    "trashAssetsBeforeHeadlessRuns": false,
+    "videoRecording": false,
+    "defaultCommandTimeout": 30000,
+    "pageLoadTimeout": 30000,
+    "testFiles": "**/*.feature"
+}
